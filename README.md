@@ -4,6 +4,7 @@
 
 This is a simple yet powerful React Native attendance app designed to manage users' check-in and check-out data. The app records the time, location, and picture of users as they log their attendance. It is suitable for various organizational needs, allowing both students and staff to efficiently manage their daily attendance.
 
+## Download letest realse [Click Here](https://github.com/nikxso/native-dattende/releases)
 ## Features
 
 ### Home Page
