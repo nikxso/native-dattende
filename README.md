@@ -33,4 +33,5 @@ This is a simple yet powerful React Native attendance app designed to manage use
   
 -   **User Management**: Admins can add, remove, and update user information. Assign roles to users, such as students, teachers, or admins.
 -   **Attendance Records**: Access detailed attendance records for all users, with the ability to filter by date, branch, and user roles.
-  ![record img](https://media.discordapp.net/attachments/867761741801586698/1250812968493645954/Screenshot_20240613-193246.png?ex=666c4dda&is=666afc5a&hm=6a87f889737ccbddc6ad187dbc8759f46de29ebef13d833bd32cd6cb86d6769e&=&format=webp&quality=lossless&width=322&height=671)
+
+![record img](https://media.discordapp.net/attachments/867761741801586698/1250812968493645954/Screenshot_20240613-193246.png?ex=666c4dda&is=666afc5a&hm=6a87f889737ccbddc6ad187dbc8759f46de29ebef13d833bd32cd6cb86d6769e&=&format=webp&quality=lossless&width=322&height=671)
