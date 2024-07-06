@@ -34,7 +34,7 @@ Native-Dattende is a powerful and intuitive React Native attendance app designed
 
 - **User Management**: Admins can add, remove, and update user information. Assign roles to users, such as students, teachers, or admins.
 
-![User Management](https://github.com/nikxso/native-dattende/assets/76174641/7578cf94-b54a-4678-ae88-fa60324fa91e)
+![User Management](https://github.com/nikxso/native-dattende/assets/76174641/fe386419-b3f2-4da1-8c31-11da25c1617a)
 
 - **Attendance Records**: Access detailed attendance records for all users, with the ability to filter by date, branch, and user roles.
 
